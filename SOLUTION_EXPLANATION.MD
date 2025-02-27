@@ -140,20 +140,6 @@ After training the **XGBoost** model with engineered features:
 
 ---
 
-## 📊 **Visual Comparisons**
-
-### 🛍️ **Example: Product & Store Comparison**
-
-#### 📅 Actual vs Forecasted Sales (Daily Average Baseline)
-![Daily Forecast](https://via.placeholder.com/600x300?text=Daily+Forecast+Plot)  
-
-#### 🚀 Actual vs Forecasted Sales (XGBoost Model)
-![Pipeline Forecast](https://via.placeholder.com/600x300?text=Pipeline+Forecast+Plot)  
-
-> 🎯 **Takeaway:** The pipeline model consistently tracks actual sales better, especially during spikes.
-
----
-
 ## 📅 **Daily MAE Trends**
 
 ### 📊 **Day-by-Day Forecast Error (Test Period)**
