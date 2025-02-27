@@ -1,7 +1,5 @@
 # 📊 **Demand Forecasting for Walmart Sales**
 
----
-
 ## 📝 **Introduction**
 
 Demand forecasting plays a pivotal role in supply chain management and inventory optimization. Accurate forecasts enable businesses to maintain optimal stock levels, reduce operational costs, and improve customer satisfaction. This project focuses on predicting Walmart sales across different stores and product categories for a 28-day horizon using machine learning, specifically the **XGBoost** algorithm, compared with baseline models based on daily and weekly sales averages.
